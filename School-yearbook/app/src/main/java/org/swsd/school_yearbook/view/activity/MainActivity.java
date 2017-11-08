@@ -249,9 +249,7 @@ public class MainActivity extends AppCompatActivity implements NoteAdapter.Callb
         return true;
     }
 
-    public void initData(){
-
-    }
+    public void initData(){}
 
     // 导出excel
     private void exportExcel(){

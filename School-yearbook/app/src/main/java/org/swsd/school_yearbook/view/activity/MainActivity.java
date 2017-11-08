@@ -124,7 +124,6 @@ public class MainActivity extends AppCompatActivity implements NoteAdapter.Callb
                     frameLayout.setVisibility(View.GONE);
                 }else{
                     Toast.makeText(MainActivity.this, "未选中任何选项", Toast.LENGTH_SHORT).show();
-
                 }
             }
         });
